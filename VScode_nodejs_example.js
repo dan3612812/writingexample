@@ -8,6 +8,7 @@
  * <a href ="https://code.visualstudio.com/docs/languages/javascript">VScode官方nodejs 快速功能</a>
  * <a href ="http://ntustproject.blogspot.com/2009/03/javadoc.html">javadoc 撰寫</a>
  * 可以把values 放進這邊 keyname= {@values #keyname}
+ * 如果發現有錯誤紅線 試著把 @ts-check 這行拿掉 觀察看看剛剛的錯誤
  */
 var memlist = {}
 var keyid = 'id';
