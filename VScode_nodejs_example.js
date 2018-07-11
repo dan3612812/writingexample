@@ -5,7 +5,9 @@
  * how to  use Extended by `todohighlight` 請先安裝 todohighlight
  * keyboard`F1` -> list -> ALL or TODO or FIXME -> output //使用TODO 表單
  * official VS code 註解其他用法
- * <url>https://code.visualstudio.com/docs/languages/javascript
+ * <a href ="https://code.visualstudio.com/docs/languages/javascript">VScode官方nodejs 快速功能</a>
+ * <a href ="http://ntustproject.blogspot.com/2009/03/javadoc.html">javadoc 撰寫</a>
+ * 可以把values 放進這邊 keyname= {@values #keyname}
  */
 var memlist = {}
 var keyid = 'id';
